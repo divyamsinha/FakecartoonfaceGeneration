@@ -5,3 +5,4 @@
 * It involves the use of DCGANs technique 
 * A generator is used to generate fake image and discriminator is used to classify between real and fake images . 
 * Both generator and discriminator are trained simultaneously
+* After training fake images can be generated from any noise vector
